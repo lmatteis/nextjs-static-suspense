@@ -1,0 +1,3 @@
+- Make sure you nextjs cache is clear
+- Open site, and click on Foo
+- Notice how the request blocks, doesn't show the Suspense loading state
